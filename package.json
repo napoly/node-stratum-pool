@@ -10,7 +10,8 @@
         "poolserver",
         "bitcoin",
         "litecoin",
-        "scrypt"
+        "scrypt",
+        "neoscrypt"
     ],
     "homepage": "https://github.com/zone117x/node-stratum-pool",
     "bugs": {
