@@ -13,9 +13,9 @@
         "scrypt",
         "neoscrypt"
     ],
-    "homepage": "https://github.com/altpooler/node-stratum-pool-yescrypt",
+    "homepage": "https://github.com/napoly/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/altpooler/node-stratum-pool-yescrypt/issues"
+        "url": "https://github.com/napoly/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -26,10 +26,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/altpooler/node-stratum-pool-yescrypt.git"
+        "url": "https://github.com/napoly/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/napoly/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
